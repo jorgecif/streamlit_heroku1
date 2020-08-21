@@ -1,4 +1,6 @@
 # Aplicación para análisis exploratorio de datos y deploy en heroku
+Desplegado en: https://streamlit-heroku-jorgecif.herokuapp.com/
+
 
 1.	Crear ventana nueva (vscode)
 2.	Crear archivo app.py
